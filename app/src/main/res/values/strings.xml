@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpotifyBeta10</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="logout_button_label1">Logout</string>
+    <string name="login_button_label1">Login</string>
+</resources>
